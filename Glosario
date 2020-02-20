@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <meta charset="utf-8">
+     <title>Glosario de Términos UX UI</title>
+     <style>
+
+        h1 {
+            color: #ffb3cc;
+        }
+
+        h2 {
+            color: #dbc7ff;
+        }
+     
+      img {
+        margin: auto;
+      }
+    </style>
+
+   </head>
+   
+   <body>
+       <h1>Glosario UX UI</h1>
+       <!-- Aquí los selectores de página -->
+            <a href="#Términos_con_A">A</a>
+            <a href="#Términos_con_B">B</a>
+            <a href="#Términos_con_C">C</a>
+            <a href="#Términos_con_D">D</a>
+            <a href="#Términos_con_E">E</a>
+            <a href="#Términos_con_F">F</a>
+            <a href="#Términos_con_G">G</a>
+            <a href="#Términos_con_H">H</a>
+            <a href="#Términos_con_I">I</a>
+            <a href="#Términos_con_J">J</a>
+            <a href="#Términos_con_K">K</a>
+            <a href="#Términos_con_L">L</a>
+            <a href="#Términos_con_M">M</a>
+            <a href="#Términos_con_N">N</a>
+            <a href="#Términos_con_O">O</a>
+            <a href="#Términos_con_P">P</a>
+            <a href="#Términos_con_Q">Q</a>
+            <a href="#Términos_con_R">R</a>
+            <a href="#Términos_con_S">S</a>
+            <a href="#Términos_con_T">T</a>
+            <a href="#Términos_con_U">U</a>
+            <a href="#Términos_con_V">V</a>
+            <a href="#Términos_con_W">W</a>
+            <a href="#Términos_con_X">X</a>
+            <a href="#Términos_con_Y">Y</a>
+            <a href="#Términos_con_Z">Z</a>
+
+<a name="Términos_con_A">
+    
+        <h2>A/B testing</h2></a>
+
+        
+        Es un método de validación en el que se prueban dos versiones diferentes de contenido online con usuarios para ver cuál es el que prefieren.
+            <br>
+            <br>
+                <img src="https://www.labschool.es/wp-content/uploads/2016/10/ab-testing.jpg">
+        <h2>Agile</h2>
+        Método Agile, o metodología ágil, es una técnica para un desarrollo de software progresivo. Es un término que abarca diferentes tipos de metodologías. Se centra en mantener código simple, testeos frecuentes y entregas funcionales de diferentes partes de la aplicación tan pronto como sea posible.
+            <br>
+            <br>
+                <img src="https://www.cognodata.com/wp-content/uploads/2019/04/Screenshot-2019-07-18-at-13.37.37-min.png">
+        <h2>Android</h2>
+        Android es un sistema operativo de móvil desarrollado por Google. Viene instalado en un amplio rango de dispositivos móviles y tabletas.
+            <br>
+            <br>
+                <img src="data:image/png;base64,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">
+
+        <h2>API</h2>
+        Estas siglas se refieren a Application Programming Interface. Una API es cómo los ordenadores y las aplicaciones web comparten información. Por ejemplo: una aplicación encuentra el parte meteorológico de ahora mismo en Sidney enviando un mensaje a la API de weather.com. Ésta responde entonces con una respuesta estructurada.
+
+
+<a name="Términos_con_B">
+    
+        <h2>Back End</h2></a>
+        
+        El back end es la sala de máquinas de una página web, software o sistema IT. Los desarrolladores back end se encargan de controlar el sitio y sus funcionalidades principales. Los frontends se encargan de lo que ves y con lo que interactúas.
+        <br>
+            <br>
+                <img src="https://anthoncode.com/wp-content/uploads/2019/05/front-end-y-back-end.jpg">
+       
+        <h2>Backlog</h2>
+        Se refiere a la acumulación de tareas de trabajo que deben ser completadas. En un proceso Agile, el backlog es una lista de de tareas prioritarias.
+            
+        <h2>Beacon</h2>
+        La tecnología Beacon permite a las aplicaciones de móviles entender su posición en una micro escala local. Puede enviar contenido contextual a los usuarios basados en su localización. Usa tecnología Bluetooth.
+            <br>
+            <br>
+                <img src="data:image/png;base64,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">
+        
+
+
+<a name="Términos_con_C">
+
+        <h2>Caché</h2> </a>
+        En informática se refiere al sitio en el que se almacena algo temporalmente. Por ejemplo, un nombre de usuario podría ser almacenado en la caché del ordenador y ser recordada la próxima vez que el usuario haga login en ese ordenador.
+            <br>
+            <br>
+                <img src="https://concepto.de/wp-content/uploads/2018/08/memoria-cache-e1534944680214.jpg">
+            
+        <h2>Chatbot</h2>
+        Un chatbot es un servicio con el que el usuario interactúa a través de un chat. El resultado final es como si se escribiera a un amigo, sólo que ese amigo es un ordenador.
+        <br>
+        <br>
+                <img src="https://www.analiticaweb.es/wp-content/uploads/2018/12/chatbot.jpg">
+            
+        <h2>CMS</h2>
+        CMS son las siglas de Content Management System (Sistema de Gestión de Contenidos). Es la aplicación informática que crea y gestiona contenido digital.
+        <br>
+        <br>
+                <img src="https://www.departamentodeinternet.com/wp-content/uploads/2011/05/cms-2.jpg">
+            
